@@ -1,0 +1,10 @@
+{
+	"name": "Ls_AzureKeyVault1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://alphcaresync-keyvault.vault.azure.net/"
+		}
+	}
+}
